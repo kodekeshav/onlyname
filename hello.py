@@ -1,2 +1,2 @@
-name = input("Apna naam batao: ")
+name = "keshav"
 print(f"Namaste, {name}! Kaise ho?")
